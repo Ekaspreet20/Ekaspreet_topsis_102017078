@@ -1,7 +1,7 @@
 from setuptools import setup
 
 def readme():
-    with open(r"C:\Users\ekasp\Desktop\Ekaspreet-topsis-102017078\README.md") as f:
+    with open(r"C:\Users\ekasp\Desktop\Ekaspreet_topsis_102017078\README.md") as f:
         README = f.read()
     return README
 
