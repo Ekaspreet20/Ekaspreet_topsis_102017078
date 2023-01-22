@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name="Ekaspreet-topsis-102017078",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python package implementing TOPSIS for MCDM",
     long_description=readme(),
     long_description_content_type="text/markdown",
