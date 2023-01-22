@@ -27,7 +27,7 @@ setup(
      ],
      entry_points={
         "console_scripts": [
-            "topsis=Topsis.topsis:main",
+            "topsis=topsis:main",
         ]
      },
      keywords=['python', 'TOPSIS', 'MCDM', 'MCDA',
